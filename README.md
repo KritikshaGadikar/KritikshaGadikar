@@ -1,16 +1,15 @@
-👩‍💻 Kritiksha Gadikar | Java Developer
+<div align="center">
 
-<!--
-**KritikshaGadikar/KritikshaGadikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Kritiksha Gadikar | Java Developer
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ashish = {
+    currentlyWorking at Nelkinda Software Craft,
+    learning: ["Spring Boot", "MongoDB"],
+    passionateAbout: ["Clean Code", "TDD", "Software Craftsmanship"],
+    askMeAbout: ["Linux", "Java", "Kotlin", "JavaScript", "Python"],
+    challenge: "Mastering the art of writing maintainable code"
+};
+```

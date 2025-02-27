@@ -1,20 +1,49 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kritiksha Gadikar</h1>
 
-# 👩‍💻 Kritiksha Gadikar | Java Developer
+<h3 align="center">Full Stack Developer | Java Enthusiast | Tech Explorer 🌍</h3>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishwajeet-29-pro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-### 🎯 Current Focus
+---
+
+## 🎯 Current Focus
 
 ```js
 const kritiksha = {
-    currently Working AS: "Java Developet",
-    learning: ["Spring Boot", "MongoDB", "SQL"],
-    passionateAbout: ["Clean Code", "TDD", "Software Craftsmanship"],
-    askMeAbout: ["Linux", "Java", "Kotlin"],
-    challenge: "Mastering the art of writing maintainable code"
+    currentlyWorkingAs: "💻 Java Developer",
+    learning: ["🚀 Spring Boot", "🍃 MongoDB", "🗄️ SQL"],
+    passionateAbout: ["✨ Clean Code", "🧪 TDD", "🛠️ Software Craftsmanship"],
+    askMeAbout: ["🐧 Linux", "☕ Java", "🟣 Kotlin"],
+    challenge: "🔥 Mastering the art of writing maintainable code",
+    contact: "📫 Reach me at **kritigadikar@gmail.com**"
 };
 ```
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://linkedin.com/in/kritiksha-gadikar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Kritiksha_Gadikar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+  <a href="https://github.com/KritikshaGadikar" target="_blank"><img src="https://img.shields.io/badge/GitHub-KritikshaGadikar-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> </a>
+    <a href="https://hibernate.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a>
+    <a href="https://gradle.org/" target="_blank"> <img src="https://gradle.com/_next/static/media/logo-gradle.c1f12d23.svg" alt="Gradle" width="40" height="40"/> </a>
+    <a href="https://maven.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+    <a href="https://cucumber.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/> </a>
+</p>
+
+
+---
 
 ## 🛠️ Tech Arsenal  
 
@@ -50,6 +79,17 @@ const kritiksha = {
 
 ---
 
+## 🎉 Fun Facts
+
+```js
+
+💡 **Did you know?** Java was originally called **Oak**! 🌳 It was later renamed to **Java** after the developers drank a lot of **Java coffee** while working on it. ☕🚀
+
+💡 **Did you know?** The first computer bug was an actual bug! In 1947, engineers found a **moth** trapped in a Harvard Mark II computer, causing it to malfunction. This led to the term *"debugging"* that we still use today! 🐛💻
+```
+
+---
+
 <div align="center">
 
 ### 🤝 Let's Connect and Create Something Amazing!
@@ -64,7 +104,7 @@ const kritiksha = {
 
 <blockquote>
     <p>"Perfection is attained not when there is nothing more to add, but when there is nothing left to take away."</p>
-    <cite>— Antoine de Saint-Exupéry</cite>
+    <cite><strong>— Antoine de Saint-Exupéry</strong></cite>
 </blockquote>
 
 </div>

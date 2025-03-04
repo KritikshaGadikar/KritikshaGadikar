@@ -9,7 +9,7 @@
 ```js
 const kritiksha = {
     currentlyWorkingAs: "💻 Java Developer",
-    learning: ["🚀 Spring Boot", "🍃 MongoDB", "🗄️ SQL"],
+    learning: ["🚀 Spring Boot", "🍃 MongoDB", "🗄️ MYSQL"],
     passionateAbout: ["✨ Clean Code", "🧪 TDD", "🛠️ Software Craftsmanship"],
     askMeAbout: ["🐧 Linux", "☕ Java", "🟣 Kotlin"],
     challenge: "🔥 Mastering the art of writing maintainable code",
